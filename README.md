@@ -151,7 +151,7 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
 
 
 <p align="center">
-    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+    <a href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
         <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
