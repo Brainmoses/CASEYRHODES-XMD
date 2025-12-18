@@ -157,8 +157,12 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
 </p>
 
 ## CASEYRHODES SUPPORT 
+   <br>
+  <a href="https://files.catbox.moe/se5e6e.jpg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=🔮virus-XD;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=CASEYRHODES XMD +MAKE; STAR ⭐+AND+FORKS+BY+CASEYRHODES XMD" alt="Typing SVG" /></a>
 
 
 
