@@ -45,7 +45,7 @@
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8) 
 </div>
 
 <p align="center">
