@@ -1,6 +1,9 @@
-<p align="center">
-  <h1 align="center">𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃</h1>
-</p>
+   <br>
+  <a href="https://files.catbox.moe/se5e6e.jpg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=virus-XD;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div> 
+
 
 > **`Updated` CASEYRHODES XMD with Latest Features**
 
